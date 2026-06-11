@@ -126,7 +126,7 @@ Many Cloudways promotions include free professional website migrations, making i
 # Cloudways Coupon Codes
 
 As of June 2026, Cloudways regularly offers promotional discounts for new customers. Below are the most commonly available offers.
-<a href="https://shlink.net/cloudways"> <img src="https://raw.githubusercontent.com/cloudways-coupon/cloudways-coupon/refs/heads/main/coupon.png"> </a>
+<a href="https://shlink.net/cloudways"> <img src="https://raw.githubusercontent.com/cloudways-coupon/cloudways-coupon/refs/heads/main/src/coupons.png"> </a>
 
 ## 30% OFF for First 3 Months
 
